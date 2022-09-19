@@ -1,0 +1,59 @@
+.navbar{
+    background-color:#8bf279;
+    width: 1520px;
+    height: 200px;
+}
+.shape{
+       float: left;
+        border-radius: 50%;
+        margin-left: 200px;
+}
+.mahiright{
+    float: right;
+    margin-bottom:50px;
+    margin-right: 700px;
+}
+.mahi{
+    text-align: center;
+}
+h3{
+    margin-left: 500px;
+    margin-top: 140px;
+}
+.navbar1{
+    background-color:pink;
+    width: 1520px;
+    height: 250px; 
+}
+.mahi1row{
+    float: right;
+    margin-right: 150px;
+}
+.mahi3row{
+    float: right;
+    margin-right: 400px;
+}
+.mahirow{
+    float: left;
+    margin-left: 150px;
+}
+.mahi1{
+    background-color: greenyellow;
+    border-radius: 50px;
+    margin-left: 60px;
+    padding: 15px;
+}
+.madhavi{
+    color: rgb(255, 0, 166);
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+ 

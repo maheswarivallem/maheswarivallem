@@ -1,0 +1,74 @@
+.navbar a{
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    margin-right: 70px;
+}
+.navbar{
+    overflow: hidden;
+    background-color: blueviolet;
+
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: rgb(28, 114, 196);
+  }
+  
+  .navbar a.active {
+   
+    color: white;
+  }
+.mahileft{
+    float: left;
+    margin-left: 70px;
+    margin-top: 50px;
+    color: blueviolet;
+}
+.mahiright{
+    float: right;
+}
+.TitleBtn{
+  color: rgb(228, 29, 195);
+}
+h4{
+  color: black;
+}
+.fa-facebook {
+    background: blueviolet;
+    
+  }
+
+  .iconsGrbu a{
+    font-size: 40px;
+    padding: 10px 15px;
+  }
+  .mahi {
+      background-color: blue;
+      border-radius: 40px;
+      margin-left: 20px;
+      padding: 10px;
+  }
+.mahi a{
+      color: white;
+      font-size: 20px;
+}
+.mahi:hover a{
+      color: rgb(238, 216, 23);
+}
+h1{
+  font-size: 40px;
+}
+.containerbtn{
+  position: relative;
+  margin-right: 100px;
+}
+.shape{
+  width: 450px;
+  margin-top: 100px;
+}
+
+
+
+

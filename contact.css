@@ -1,0 +1,34 @@
+.navbar{
+    background-color:greenyellow;
+    width: 1520px;
+    height: 200px;
+    
+}
+h1{
+    text-align: center;
+    margin-left: 100px;
+}
+.iconsGrbu i{
+    font-size: 40px;
+    padding: 10px 15px;
+    margin-left: 500px;
+  }
+  .container{
+    color: blue;
+  }
+  .mahi {
+    background-color: rgb(247, 203, 122);
+    border-radius: 40px;
+    margin-left: 750px;
+    padding: 10px;
+}
+.btn{
+    color: rgb(220, 20, 160);
+    margin-left: 100px;
+}
+.GrpMail{
+  font-size: 20px;
+  padding: 10px 15px;
+  margin-left: 400px;
+
+}
